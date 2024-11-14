@@ -8,6 +8,8 @@ TagManager:
   - CinemachineTarget
   - ScreenCamera
   - cockpit_capitalLaser
+  - Meteor
+  - Energy
   layers:
   - Default
   - TransparentFX
